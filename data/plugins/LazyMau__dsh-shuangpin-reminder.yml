@@ -1,0 +1,6 @@
+url: https://github.com/LazyMau/dsh-shuangpin-reminder
+name: LazyMau/dsh-shuangpin-reminder
+category: ui
+description:
+  en: 'Shuangpin key-map cheat sheet docked above the composer: heat-marks the keys you use, reveals the keys when you stall, ships five schemes (Xiaohe, Ziranma, Microsoft, ABC, Pinyin++) plus custom mapping, and drills the characters you got stuck on.'
+  zh: '输入框上方的双拼键位速查面板：给键位标热度、卡住时亮键，内置小鹤、自然码、微软、智能ABC、拼音加加五套方案并支持自定义键位，可把卡过的字做成练习。'
